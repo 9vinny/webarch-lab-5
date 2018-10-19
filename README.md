@@ -1,4 +1,4 @@
-# Lab 5
+# Lab 7
 Using the terminal to browse the web
 
 ## In this lab you will accomplish the following
